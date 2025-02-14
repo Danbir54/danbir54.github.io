@@ -1,50 +1,56 @@
 # Data Scientist | Machine Learning Researcher  
-- **Technical Skills:** Python, PyTorch, TensorFlow, Scikit-learn, Keras, MATLAB  
+####Technical Skills: Python, SQL, PyTorch, TensorFlow, Keras, Scikit-learn, MATLAB  
 
-## 🎓 Education  
-- **B.Sc., Computer Science & Engineering** | Leading University, Sylhet *(Jan. 2020 - Dec. 2023)*  
-  - **CGPA:** 3.81 / 4.00  
-  - **Thesis:** Optimizing Post-Cancer Treatment Prognosis Using Machine Learning and Ensemble Techniques  
-- **H.S.C, Science** | Scholarshome Majortila College, Sylhet *(Jul. 2017 - Jun. 2019)*  
-- **S.S.C, Science** | Abdur Razzak Smriti Biddanikatan, Sylhet *(Jan 2015 - Apr. 2017)*  
+## Education 
+- Master's, Information Technology | Shahjalal University of Science and Technology, Sylhet (_Jan. 2025 - Present_)
+- B.Sc., Computer Science & Engineering| Leading University, Sylhet (_Jan. 2020 - Dec. 2023_) 
+- H.S.C, Science | Scholarshome Majortila College, Sylhet (_Jul. 2017 - Jun. 2019_)
+- S.S.C, Science| Abdur Razzak Smriti Biddanikatan, Sylhet (_Jan 2015 - Apr. 2017_)  
 
-## 🏆 Research Interests  
+## Research Interests  
 - Machine Learning, Deep Learning, Image Processing, Computer Vision, and Large Language Models  
 
-## 💼 Professional Experience  
+## Professional Experience  
+**Teacher @ Abdur Razzak Smriti Biddanikatan, High School (_Sept. 2022 - Present_)**
+- Subjects Teach – Information and Communication Technology (ICT), and Digital Technology
 
-### **Teacher**  
-*Sept. 2024 – Present*  
-*Abdur Razzak Smriti Biddanikatan, High School*  
-**Subjects Taught:**  
-- Information and Communication Technology (ICT)  
-- Digital Technology  
-- Physics  
+**Research Assistance @ DeepNet Research and Development Lab (_Jun. 2023 - Present_)**
+- Assist in conducting research related to machine learning & deep learning models.
+- Implement and optimize different models and algorithms in Python.
+- Collaborate with a team of researchers to publish findings.
 
-## 🔬 Research Experience  
-
-### **Undergraduate Thesis**  
-*Jun. 2023 – Mar. 2024*  
+**Undergraduate Thesis @ Leading University (_Jun. 2023 - Mar. 2024)**
 - Conducted research on **Optimizing Post-Cancer Treatment Prognosis** using ML and Ensemble techniques.  
 - Worked with cancer patient datasets collected from **MAG Osmani Medical College**.  
 - Developed **multiclass classification models** using ML, deep learning, and ensemble approaches.  
-- **Paper under review** at *Intelligence-Based Medicine Journal*.  
+- **Paper under review** at *Intelligence-Based Medicine Journal*.
 
-## 📜 Publications  
-1. **Heart Disease Prediction through Enhanced ML and Feature Selection** – *IEEE ICSIMA 2024*  
-2. **Lung Cancer Classification with Advanced Feature Selection & Ensemble Learning** – *IEEE ICCIT 2024 (Presented)*  
-3. **Optimizing Post-Cancer Treatment Prognosis** – *Under Review at Intelligence-Based Medicine*  
-4. **Dengue Fever Prognostic Modeling using Neural Networks** – *Under Review at IJACSA*  
+## Projects  
+- **Electric Gadgets** – E-commerce based web application. 
+- **Blood Management App** – Android application using Flutter. 
+- **Railway Reservation System** – Java-based project with database integration. 
+- **Housing Price Prediction** – ML & DL project using online data.
 
-## 🚀 Projects  
-- **Electric Gadgets** – E-commerce web application  
-- **Blood Management App** – Android app using Flutter  
-- **Railway Reservation System** – Java-based project with database integration  
-- **Housing Price Prediction** – ML project using Kaggle datasets  
+## Other Skills  
+- **Programming:** C, C++, Java, JavaScript, PHP, Dart 
+- **Frameworks:** PyTorch, TensorFlow, Keras, Scikit-learn, Pandas, NumPy  
+- **Tools & Platforms:** Kaggle, Java Springs, Android Studio, Flutter
+- **Millicious:** Morse Code 
 
-## 🛠 Technical Skills  
-- **Programming:** Python, C, C++, Java, JavaScript, PHP, Dart  
-- **ML/DL Frameworks:** PyTorch, TensorFlow, Keras, Scikit-learn, Pandas, NumPy  
-- **Tools & Platforms:** Kaggle, MATLAB, Jupyter Notebook, SQL, Android Studio  
+## Publications  
+1. Arifuzzaman, M., Chowdhury, M. J. U.,Iftekhar Ahmed, I., Md Nurul Absar Siddiky, M. N. A.& Rashid,
+D. (2024) . Heart Disease Prediction through Enhanced Machine Learning and Diverse Feature
+Selection Approaches in IEEE 10th International Conference on Smart Instrumentation, Measurement
+and Applications (ICSIMA), IEEE. [LINK]
 
-## 📢
+2. Rashid, D., Tohin, M. I., Chowdhury, M. J. U., & Mony, M. J. I. (2024). Enhancing Lung Cancer
+Classification Performance on Diverse Datasets: Utilizing Advanced Feature Selection and Novel
+Ensemble Approaches. in IEEE 27th International Conference on Computer and Information
+Technology (ICCIT), IEEE | Presented | not yet published |
+3. Chakraborty, J., Tohin, M. I., Rashid, D., Tamnoy, T. A., & Mony, M. J. I. (2024). Optimizing
+Post-Cancer Treatment Prognosis: A Study of Machine Learning and Ensemble Techniques.
+Intelligence-Based Medicine Journal, Index:Scopus [Under Review]
+4. Rashid, D., Hossian, M. E. & Chowdhury, M. J. U. (2025) . Prognostic Modeling and Risk Factor
+Analysis of Dengue Fever Using Advanced Algorithms and Neural Networks. International Journal
+of Advanced Computer Science and Applications (IJACSA), Index:Scopus [Under Review]
+
