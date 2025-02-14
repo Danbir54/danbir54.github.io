@@ -41,12 +41,12 @@
 1. Arifuzzaman, M., Chowdhury, M. J. U.,Iftekhar Ahmed, I., Md Nurul Absar Siddiky, M. N. A.& Rashid,
 D. (2024) . Heart Disease Prediction through Enhanced Machine Learning and Diverse Feature
 Selection Approaches in IEEE 10th International Conference on Smart Instrumentation, Measurement
-and Applications (ICSIMA), IEEE. [LINK]
+and Applications (ICSIMA), IEEE.
 
 2. Rashid, D., Tohin, M. I., Chowdhury, M. J. U., & Mony, M. J. I. (2024). Enhancing Lung Cancer
 Classification Performance on Diverse Datasets: Utilizing Advanced Feature Selection and Novel
 Ensemble Approaches. in IEEE 27th International Conference on Computer and Information
-Technology (ICCIT), IEEE | Presented | not yet published |
+Technology (ICCIT), IEEE.
 3. Chakraborty, J., Tohin, M. I., Rashid, D., Tamnoy, T. A., & Mony, M. J. I. (2024). Optimizing
 Post-Cancer Treatment Prognosis: A Study of Machine Learning and Ensemble Techniques.
 Intelligence-Based Medicine Journal, Index:Scopus [Under Review]
