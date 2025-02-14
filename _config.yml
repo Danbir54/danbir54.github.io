@@ -1,18 +1,26 @@
-title: Danbir Rashid
-logo: assets/img/me.jpeg
-description: "Portfolio of Danbir Rashid, a passionate developer and designer."
+title: "Danbir Rashid"
+logo: "assets/img/me.jpeg"
+description: "Portfolio of Danbir Rashid, a passionate developer and researcher in AI & Data Science."
 show_downloads: true
-theme: jekyll-theme-minimal
-url: "https://danbir54.github.io" # Customize with your own URL if needed
-baseurl: "" # If using a subdirectory, update accordingly (e.g., "/portfolio")
+theme: "jekyll-theme-minimal"
+url: "https://danbir54.github.io"  # Customize with your own URL if needed
+baseurl: ""  # If using a subdirectory, update accordingly (e.g., "/portfolio")
+
 author:
-  name: Danbir Rashid
-  email: danbirrashid54@gmail.com # Optional
+  name: "Danbir Rashid"
+  email: "danbirrashid54@gmail.com"  # Optional
+
 social:
-  twitter: "@danbir54" # Optional, add your social links
-  github: "https://github.com/danbir54"
-  linkedin: "linkedin.com/in/danbir-rashid-ab6565303/"
+  twitter: "@danbir54"  # Optional, add your social links
+  github: "https://github.com/Danbir54"
+  linkedin: "https://linkedin.com/in/danbir-rashid-ab6565303/"
+
 contact:
-  address: "Kamalpur, Zokiganj, Kamalpur-3190, Sylhet, Bangladesh" # Your address here
-  phone: "+880 1784-888335" # Optional phone number
+  address: "Kamalpur, Zokiganj, Kamalpur-3190, Sylhet, Bangladesh"  # Your address here
+  phone: "+880 1784-888335"  # Optional phone number
   email: "danbirrashid54@gmail.com"
+
+# Plugins (optional, useful for SEO & RSS)
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
